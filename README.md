@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LaayaYaghoubi
-- 👀 I’m interested in Graph Representation Learning
-- 🌱 I’m currently learning Machine learning with graphs
-- 💞️ I’m looking to collaborate on anything :))
+-  I’m a software engineer who loves keeping my skills up-to-date and always looking for new challenges.
 - 📫 How to reach me : layayaghoubi@gmail.com
 
 <!---
